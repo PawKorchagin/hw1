@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/opt/llvm/lib CMakeFiles/op_tests.dir/op_test.cpp.o -o op_tests  ../lib/libop_lib.a ../lib/libgtest_main.a ../lib/libgtest.a

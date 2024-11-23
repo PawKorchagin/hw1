@@ -1,0 +1,5 @@
+if(EXISTS "/Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/tests/op_tests[1]_tests.cmake")
+  include("/Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/tests/op_tests[1]_tests.cmake")
+else()
+  add_test(op_tests_NOT_BUILT op_tests_NOT_BUILT)
+endif()

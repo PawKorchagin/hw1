@@ -1,0 +1,3 @@
+/Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+/Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
+/Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir

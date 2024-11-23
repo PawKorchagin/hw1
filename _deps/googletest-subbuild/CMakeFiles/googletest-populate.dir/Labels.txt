@@ -1,0 +1,14 @@
+# Target labels
+ googletest-populate
+# Source files and their labels
+/Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/_deps/googletest-subbuild/CMakeFiles/googletest-populate
+/Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/_deps/googletest-subbuild/CMakeFiles/googletest-populate.rule
+/Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete.rule
+/Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build.rule
+/Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure.rule
+/Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download.rule
+/Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install.rule
+/Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir.rule
+/Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch.rule
+/Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test.rule
+/Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update.rule
