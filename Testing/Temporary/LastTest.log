@@ -1,10 +1,10 @@
-Start testing: Nov 23 13:13 MSK
+Start testing: Nov 30 15:28 MSK
 ----------------------------------------------------------
 1/8 Testing: _.Add
 1/8 Test: _.Add
 Command: "/Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/tests/op_tests" "--gtest_filter=_.Add" "--gtest_also_run_disabled_tests"
 Directory: /Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/tests
-"_.Add" start time: Nov 23 13:13 MSK
+"_.Add" start time: Nov 30 15:28 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -23,7 +23,7 @@ Note: Google Test filter = _.Add
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"_.Add" end time: Nov 23 13:13 MSK
+"_.Add" end time: Nov 30 15:28 MSK
 "_.Add" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -31,7 +31,7 @@ Test Passed.
 2/8 Test: _.Diff
 Command: "/Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/tests/op_tests" "--gtest_filter=_.Diff" "--gtest_also_run_disabled_tests"
 Directory: /Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/tests
-"_.Diff" start time: Nov 23 13:13 MSK
+"_.Diff" start time: Nov 30 15:28 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -50,7 +50,7 @@ Note: Google Test filter = _.Diff
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"_.Diff" end time: Nov 23 13:13 MSK
+"_.Diff" end time: Nov 30 15:28 MSK
 "_.Diff" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -58,7 +58,7 @@ Test Passed.
 3/8 Test: _.Mul
 Command: "/Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/tests/op_tests" "--gtest_filter=_.Mul" "--gtest_also_run_disabled_tests"
 Directory: /Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/tests
-"_.Mul" start time: Nov 23 13:13 MSK
+"_.Mul" start time: Nov 30 15:28 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -77,7 +77,7 @@ Note: Google Test filter = _.Mul
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"_.Mul" end time: Nov 23 13:13 MSK
+"_.Mul" end time: Nov 30 15:28 MSK
 "_.Mul" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -85,7 +85,7 @@ Test Passed.
 4/8 Test: _.AddBig
 Command: "/Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/tests/op_tests" "--gtest_filter=_.AddBig" "--gtest_also_run_disabled_tests"
 Directory: /Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/tests
-"_.AddBig" start time: Nov 23 13:13 MSK
+"_.AddBig" start time: Nov 30 15:28 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -104,7 +104,7 @@ Note: Google Test filter = _.AddBig
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"_.AddBig" end time: Nov 23 13:13 MSK
+"_.AddBig" end time: Nov 30 15:28 MSK
 "_.AddBig" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -112,7 +112,7 @@ Test Passed.
 5/8 Test: _.MulBig
 Command: "/Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/tests/op_tests" "--gtest_filter=_.MulBig" "--gtest_also_run_disabled_tests"
 Directory: /Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/tests
-"_.MulBig" start time: Nov 23 13:13 MSK
+"_.MulBig" start time: Nov 30 15:28 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -131,7 +131,7 @@ Note: Google Test filter = _.MulBig
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"_.MulBig" end time: Nov 23 13:13 MSK
+"_.MulBig" end time: Nov 30 15:28 MSK
 "_.MulBig" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -139,7 +139,7 @@ Test Passed.
 6/8 Test: _.DivInt
 Command: "/Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/tests/op_tests" "--gtest_filter=_.DivInt" "--gtest_also_run_disabled_tests"
 Directory: /Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/tests
-"_.DivInt" start time: Nov 23 13:13 MSK
+"_.DivInt" start time: Nov 30 15:28 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -158,7 +158,7 @@ Note: Google Test filter = _.DivInt
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"_.DivInt" end time: Nov 23 13:13 MSK
+"_.DivInt" end time: Nov 30 15:28 MSK
 "_.DivInt" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -166,7 +166,7 @@ Test Passed.
 7/8 Test: _.DivFloat
 Command: "/Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/tests/op_tests" "--gtest_filter=_.DivFloat" "--gtest_also_run_disabled_tests"
 Directory: /Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/tests
-"_.DivFloat" start time: Nov 23 13:13 MSK
+"_.DivFloat" start time: Nov 30 15:28 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -185,7 +185,7 @@ Note: Google Test filter = _.DivFloat
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"_.DivFloat" end time: Nov 23 13:13 MSK
+"_.DivFloat" end time: Nov 30 15:28 MSK
 "_.DivFloat" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -193,7 +193,7 @@ Test Passed.
 8/8 Test: _.DivIntToFloat
 Command: "/Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/tests/op_tests" "--gtest_filter=_.DivIntToFloat" "--gtest_also_run_disabled_tests"
 Directory: /Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/tests
-"_.DivIntToFloat" start time: Nov 23 13:13 MSK
+"_.DivIntToFloat" start time: Nov 30 15:28 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /Users/pawkorchargin/itmo-ct-y27-s3/cpp/hw1/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -212,8 +212,8 @@ Note: Google Test filter = _.DivIntToFloat
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"_.DivIntToFloat" end time: Nov 23 13:13 MSK
+"_.DivIntToFloat" end time: Nov 30 15:28 MSK
 "_.DivIntToFloat" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Nov 23 13:13 MSK
+End testing: Nov 30 15:28 MSK

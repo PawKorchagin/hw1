@@ -1,35 +1,42 @@
 #include "op.h"
 
+// Здесь надо реализовать сумму двух целых чисел
 int add(int a, int b) {
-    return a + b;
+
 }
 
+// Здесь надо реализовать разность двух целых чисел
 int diff(int a, int b) {
-    return a - b;
+
 }
 
+// Здесь надо реализовать умножение двух небольших целых чисел
 int mul(int a, int b) {
-    return a * b;
+
 }
 
+// Здесь нужно релизовать сумму двух больших целых чисел
 long long add_big(int a, int b) {
-    long long res = (long long) a + b;
-    return res;
+
 }
 
+// Здесь нужно релизовать умножение двух больших целых чисел
 long long mul_big(int a, int b) {
-    long long res = (long long) a * b;
-    return res;
+
 }
 
+// Здесь нужно релизовать деление двух целых чисел
 int div_int(int a, int b) {
-    return a / b;
+
 }
 
+// Здесь нужно реализовать деление двух вещественных чисел
 float div_float(float a, float b) {
-    return a / b;
+
 }
 
+// Здесь нужно поделить целые числа,
+// но результат должен быть вещественным
 float div_int_to_float(int a, int b) {
-    return 1. * a / b;
+
 }
